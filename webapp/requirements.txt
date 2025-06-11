@@ -1,0 +1,6 @@
+numpy
+python-crontab
+flask
+flask-SocketIO
+pymysql
+cryptography

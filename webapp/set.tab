@@ -1,0 +1,4 @@
+0 16 * * 5 python /app/rakuten.py
+15 16 * * 5 python /app/matsui.py
+45 16 * * 5 python /app/SBI.py
+15 17 * * 5 python /app/gmoclick.py
